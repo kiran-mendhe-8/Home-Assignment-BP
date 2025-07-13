@@ -11,7 +11,7 @@ A modern Android application built with Jetpack Compose that helps users find ne
   - Hot food availability
   - BP fuel card acceptance
 - **Radius Selection**: Choose search radius (0.5, 1.0, or 5.0 miles)
-- **Real-time Data**: Fetches live data from BP service station API
+- **Real-time Data**: Fetches data from dummy service station API
 - **Offline Support**: Caches data locally using Room database
 - **Modern UI**: Built with Material Design 3 and Jetpack Compose
 - **Clean Architecture**: Follows MVVM pattern with proper separation of concerns
